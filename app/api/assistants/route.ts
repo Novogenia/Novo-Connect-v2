@@ -1,8 +1,5 @@
-import { openai } from "@/app/utils/openai";
-import { assistantId } from "@/app/utils/assistant-config";
-
-
-
+import { openai } from "../../utils/openai";
+import { assistantId } from "../../utils/assistant-config";
 
 
 export const runtime = "nodejs";
