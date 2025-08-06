@@ -38,3 +38,4 @@ export async function POST() {
   });
   return Response.json({ assistantId: assistant.id });
 }
+
