@@ -1,5 +1,5 @@
-import { assistantId } from "../../utils/assistant-config";
-import { openai } from "@/utils/openai"; // ✅ not @/app/utils/openai
+import { assistantId } from "../../../utils/assistant-config";
+import { openai } from "@/utils/openai"; // 👈 correct alias
 
 
 
