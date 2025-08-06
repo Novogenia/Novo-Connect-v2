@@ -1,5 +1,6 @@
-import { openai } from "../../utils/openai";
-import { assistantId } from "../../utils/assistant-config";
+import { openai } from "@/app/utils/openai";
+import { assistantId } from "@/app/utils/assistant-config";
+
 
 
 
