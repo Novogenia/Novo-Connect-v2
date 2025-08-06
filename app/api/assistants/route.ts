@@ -1,8 +1,8 @@
-import { openai } from "../../utils/openai";
 import { assistantId } from "../../utils/assistant-config";
-
+import { openai } from "../../utils/openai";
 
 export const runtime = "nodejs";
+
 
 // Create a new assistant
 export async function POST() {
