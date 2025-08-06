@@ -1,5 +1,5 @@
 import { assistantId } from "../../utils/assistant-config";
-import { openai } from "@/app/utils/openai"; // ✅ Preferred in Next.js
+import { openai } from "../../../../utils/openai"; 
 
 
 export const runtime = "nodejs";
